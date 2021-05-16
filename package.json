@@ -1,11 +1,11 @@
 {
-  "name": "helioslauncher",
+  "name": "neogelauncher",
   "version": "1.8.0",
-  "productName": "Helios Launcher",
+  "productName": "Nêoge Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) et Natsukiii__",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/Natsukiii69/Neoge-Launcher",
   "bugs": {
     "url": "https://github.com/dscalzi/HeliosLauncher/issues"
   },
